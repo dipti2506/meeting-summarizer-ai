@@ -1,0 +1,3 @@
+Alice: We need to finish the report by Friday.
+Bob: I'll handle the charts, and you finalize the text.
+Charlie: I'll review once it's ready.
