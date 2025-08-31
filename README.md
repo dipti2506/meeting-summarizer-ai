@@ -1,6 +1,6 @@
 # Meeting Summarizer AI
 
-📋 A Streamlit app that summarizes meeting transcripts and extracts action items using OpenAI GPT.
+📋 A Streamlit app that summarizes meeting transcripts and extracts action items using Groq LLM API.
 
 ## Features
 - Upload `.txt` transcript
