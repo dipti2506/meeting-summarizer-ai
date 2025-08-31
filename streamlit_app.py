@@ -1,7 +1,5 @@
 import streamlit as st
 
-st.title("🚀 Meeting Summarizer AI")
-
 
 
 
