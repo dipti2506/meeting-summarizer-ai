@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("🚀 Meeting Summarizer AI")
-st.write("If you see this, Streamlit is working fine!")
+
 
 
 
@@ -45,5 +45,3 @@ if uploaded_file is not None:
             st.subheader("✅ Summary & Action Items")
             st.write(summary)
 
-st.write("✅ Git change test")
-print("Debug: change detected")
