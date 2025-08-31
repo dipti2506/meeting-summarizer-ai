@@ -12,3 +12,18 @@
 2. Install requirements:
    ```bash
    pip install -r requirements.txt
+
+## Set API key
+1. Create a .env file in root folder:
+   ```ini
+   GROQ_API_KEY=your_api_key_here
+
+
+## Run locally
+   ```bash
+- streamlit run streamlit_app.py
+
+
+## Deploy
+- Push to GitHub → Deploy on Streamlit Cloud
+.
