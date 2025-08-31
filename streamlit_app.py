@@ -11,7 +11,7 @@ except KeyError:
 
 # ---- Initialize Groq Client ----
 client = Groq(api_key=api_key)
-MODEL_NAME = "llama3-8b-8192"
+MODEL_NAME = "llama-3.1-8b-instant"
 MAX_TOKENS = 300
 CHUNK_SIZE = 3000  # characters per chunk, adjust if needed
 
