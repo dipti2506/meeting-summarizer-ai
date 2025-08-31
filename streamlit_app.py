@@ -24,7 +24,8 @@ def summarize_transcript(transcript_text):
         temperature=0.2,
         max_tokens=300,
     )
-    return response.choices[0].message["content"]
+    return response.choices[0].message.content
+
 
 # ---- Streamlit UI ----
 st.title("📋 Meeting Summarizer AI")
